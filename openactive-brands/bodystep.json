@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "BODYSTEP™",
+    "description": "Basic stepping, just like walking up and down stairs, is at the heart of BODYSTEP™ – a full-body cardio workout to really tone your butt and thighs.\n\nIn a BODYSTEP workout you can expect a mixture of upbeat, rhythmic stepping, with squat and lunge patterns to work the legs. Combine this with movements like burpees, push ups and weight plate exercises, and the result is a fun, uplifting, full-body workout! Don’t worry, there’s heaps of options so that everyone leaves feeling successful.\n\nOur bubbly and approachable instructors coach you through the workout. We play invigorating, hit music and inject a whole lot of fun and personality along the way. You can burn up to 620 calories** and you’ll leave buzzing with satisfaction.",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://skin.shop.lesmills.com/skin/frontend/lesmills/equipment/images/custom_product/bodystep.svg"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/group-fitness/bodystep/",
+    "beta:video": "https://www.youtube.com/watch?v=uMYm4lYpCO4",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}
