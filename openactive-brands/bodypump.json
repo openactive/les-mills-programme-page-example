@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "BODYPUMP™",
+    "description": "BODYPUMP™ is a barbell workout for anyone looking to get lean, toned and fit – fast.\n\nUsing light to moderate weights with lots of repetition, BODYPUMP gives you a total body workout. It will burn up to 540 calories. Instructors will coach you through the scientifically proven moves and techniques pumping out encouragement, motivation and great music – helping you achieve much more than on your own! You’ll leave the class feeling challenged and motivated, ready to come back for more. BODYPUMP is available as either a 55, 45 or 30-minute workout.",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://skin.shop.lesmills.com/skin/frontend/lesmills/equipment/images/custom_product/bodypump.svg"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/group-fitness/bodypump/",
+    "beta:video": "https://www.youtube.com/watch?v=FnmAAo8KANM",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}
