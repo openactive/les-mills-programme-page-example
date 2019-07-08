@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "BODYATTACK™",
+    "description": "BODYATTACK™ is a high-energy fitness class with moves that cater for total beginners to total addicts. We combine athletic movements like running, lunging and jumping with strength exercises such as push-ups and squats. A LES MILLS™ instructor will pump out energizing tunes and lead you through the workout – challenging your limits in a good way, burning up to 730 calories and leaving you with a sense of achievement.",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://www.openactive.io/les-mills-programme-page-example/openactive-brands/logos/bodyattack-logo.png"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/group-fitness/bodyattack/",
+    "beta:video": "https://www.youtube.com/watch?v=8EsaCyf0o8Y",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}

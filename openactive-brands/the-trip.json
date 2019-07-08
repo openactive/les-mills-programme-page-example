@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "THE TRIP™",
+    "description": "THE TRIP™ is a fully immersive workout experience that combines a 40-minute multi-peak cycling workout with a journey through digitally-created worlds. With its cinema-scale screen and sound system, THE TRIP takes motivation and energy output to the next level, burning serious calories.",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://www.openactive.io/les-mills-programme-page-example/openactive-brands/logos/the-trip-logo.png"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/group-fitness/the-trip/",
+    "beta:video": "https://www.youtube.com/watch?v=jNKsfORI_e0",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}

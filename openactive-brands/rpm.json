@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "RPM™",
+    "description": "RPM™ is a group indoor cycling workout where you control the intensity. It’s fun, low impact and you can burn up to 675 calories a session.\n\nWith great music pumping and the group spinning as one, your instructor takes you on a journey of hill climbs, sprints and flat riding. In an RPM workout you repeatedly spin the pedals to reach your cardio peak then ease back down, keeping pace with the pack to lift your personal performance and boost your cardio fitness.\n\n\RPM is a great way to build up your sense of personal achievement. You can draw on the group’s energy and find your rhythm in the music. You control your own resistance levels and speed so you can build up your fitness level over time. It’s a journey, not a race!",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://www.openactive.io/les-mills-programme-page-example/openactive-brands/logos/rpm-logo.png"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/group-fitness/rpm/",
+    "beta:video": "https://www.youtube.com/watch?v=0olo_smV7iE",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}

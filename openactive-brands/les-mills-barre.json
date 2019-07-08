@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "LES MILLS BARRE™",
+    "description": "LES MILLS BARRE™ is a modern version of classic balletic training; a 30-minute workout designed to shape and tone postural muscles, build core strength, and allow you to escape the everyday. Incorporating classic ballet positions, with modern music, LES MILLS BARRE is a combination of cardio and strength with high reps of small range-of-motion movements and very light weights.\n\nIf you're seeking a different style of training or a new kind of self-expression, you will love LES MILLS BARRE. Without the traditional barre to support you, the muscles supporting your body’s stability and strength becomes the focus. It may look beautiful, but don’t underestimate the burn.",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://www.openactive.io/les-mills-programme-page-example/openactive-brands/logos/barre-logo-125x35.png"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/group-fitness/les-mills-barre/",
+    "beta:video": "https://www.youtube.com/watch?v=2tPAZPe2ehU",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}

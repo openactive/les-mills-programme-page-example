@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "LES MILLS GRIT™ Cardio",
+    "description": "LES MILLS GRIT™ Cardio is a 30-minute high-intensity interval training (HIIT) workout that improves cardiovascular fitness, increases speed and maximizes calorie burn. This workout uses a variety of body weight exercises and provides the challenge and intensity you need to get results fast. LES MILLS GRIT Cardio takes HIIT and combines it with powerful music and inspirational coaches who will be down on the floor with you, motivating you to go harder to get fit, fast.",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://www.openactive.io/les-mills-programme-page-example/openactive-brands/logos/les-mills-grit-cardio-logo-black.png"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/high-intensity-interval-training/les-mills-grit-cardio/",
+    "beta:video": "https://www.youtube.com/watch?v=Hr8uC9g1Ro4",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}

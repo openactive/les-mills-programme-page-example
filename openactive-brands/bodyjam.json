@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "BODYJAM™",
+    "description": "Choreographed by Gandalf Archer-Mills in Auckland, New Zealand, BODYJAM™ is the ultimate combination of music and dance.\n\nTracks that you love right now? They’re in BODYJAM. That new style you’ve heard about? It was in BODYJAM last year.",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://www.openactive.io/les-mills-programme-page-example/openactive-brands/logos/bodyjam-logo.png"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/group-fitness/bodyjam/",
+    "beta:video": "https://www.youtube.com/watch?v=8a7eXHvZgnw",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}

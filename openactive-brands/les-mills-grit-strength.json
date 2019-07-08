@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "LES MILLS GRIT™ Strength",
+    "description": "LES MILLS GRIT™ Strength is a 30-minute high-intensity interval training (HIIT) workout, designed to improve strength, cardiovascular fitness and build lean muscle. This workout uses barbell, weight plate and bodyweight exercises to blast all major muscle groups. LES MILLS GRIT Strength takes cutting-edge HIIT and combines it with powerful music and inspirational coaches who will be down on the floor with you, motivating you to go harder to get fit, fast.",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://www.openactive.io/les-mills-programme-page-example/openactive-brands/logos/les-mills-grit-strength-logo-black.png"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/high-intensity-interval-training/les-mills-grit-strength/",
+    "beta:video": "https://www.youtube.com/watch?v=Hr8uC9g1Ro4",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}

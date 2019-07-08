@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "SH’BAM™",
+    "description": "A fun-loving, insanely addictive dance workout. SH’BAM™ is an ego-free zone – no dance experience required. All you need is a playful attitude and a cheeky smile so forget being a wallflower – even if you walk in thinking you can’t, you’ll walk out knowing you can!",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://www.openactive.io/les-mills-programme-page-example/openactive-brands/logos/shbam-logo.png"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/group-fitness/shbam/",
+    "beta:video": "https://www.youtube.com/watch?v=wy4_VNUnfQ4",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}
