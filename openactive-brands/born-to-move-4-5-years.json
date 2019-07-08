@@ -1,0 +1,16 @@
+{
+    "@context": [
+        "https://openactive.io/",
+        "https://openactive.io/ns-beta"
+    ],
+    "type": "Brand",
+    "name": "BORN TO MOVE (4-5 years)",
+    "description": "These fun-fuelled classes help four and five year olds explore how their bodies work. There’s plenty of opportunity to develop self-awareness, balance, coordination and concentration skills as they interpret music, explore and move to a beat. Each 45 or 55-minute class is led by highly trained teacher who will ensure your child is engaged, active and having a whole heap of fun.",
+    "logo": {
+        "type": "ImageObject",
+        "url": "https://www.openactive.io/les-mills-programme-page-example/openactive-brands/logos/born-to-move-4-5-years-logo.png"
+    },
+    "url": "https://www.lesmills.com/uk/workouts/kids-classes/born-to-move-4-5-years/",
+    "beta:video": "https://www.youtube.com/watch?v=5ktavRXdX0o",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+}
